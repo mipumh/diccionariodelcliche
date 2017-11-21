@@ -16,6 +16,9 @@
   cursor: pointer;
   /* Add a mouse pointer on hover */ }
 
+@media (min-width: 60px) {
+  .navbar {
+    text-align: center; } }
 /**
  * Site base css
  */
