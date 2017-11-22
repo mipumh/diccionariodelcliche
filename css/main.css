@@ -601,13 +601,13 @@ pre {
       max-width: 540px; } }
   @media (min-width: 768px) {
     .container {
-      max-width: 720px; } }
+      max-width: 690px; } }
   @media (min-width: 992px) {
     .container {
-      max-width: 760px; } }
+      max-width: 700px; } }
   @media (min-width: 1200px) {
     .container {
-      max-width: 790px; } }
+      max-width: 710px; } }
 
 .container-fluid {
   width: 100%;
