@@ -17,6 +17,10 @@
     } ,
   
     {
+      "cliche"    : "A bote pronto"
+    } ,
+  
+    {
       "cliche"    : "A brazo partido"
     } ,
   
@@ -385,7 +389,7 @@
     } ,
   
     {
-      "cliche"    : "A tiro  de piedra"
+      "cliche"    : "A tiro de piedra"
     } ,
   
     {
@@ -606,6 +610,10 @@
   
     {
       "cliche"    : "Actuar entre bambalinas"
+    } ,
+  
+    {
+      "cliche"    : "Acusar recibo"
     } ,
   
     {
@@ -917,6 +925,10 @@
     } ,
   
     {
+      "cliche"    : "Aparatoso accidente"
+    } ,
+  
+    {
       "cliche"    : "Apechugar con"
     } ,
   
@@ -989,10 +1001,6 @@
     } ,
   
     {
-      "cliche"    : "El que no corre, vuela"
-    } ,
-  
-    {
       "cliche"    : "Aquí no hay quien viva"
     } ,
   
@@ -1006,6 +1014,10 @@
   
     {
       "cliche"    : "Arañar segundos"
+    } ,
+  
+    {
+      "cliche"    : "Arder en deseos"
     } ,
   
     {
@@ -1389,6 +1401,10 @@
     } ,
   
     {
+      "cliche"    : "Bocachancla"
+    } ,
+  
+    {
       "cliche"    : "Bolsa de pobreza"
     } ,
   
@@ -1769,6 +1785,10 @@
     } ,
   
     {
+      "cliche"    : "Cara de mala leche"
+    } ,
+  
+    {
       "cliche"    : "Cara de pocos amigos"
     } ,
   
@@ -2101,6 +2121,10 @@
     } ,
   
     {
+      "cliche"    : "Colgar el cartel de no hay entradas"
+    } ,
+  
+    {
       "cliche"    : "Colgar el sambenito"
     } ,
   
@@ -2181,6 +2205,10 @@
     } ,
   
     {
+      "cliche"    : "Comer en el mismo plato"
+    } ,
+  
+    {
       "cliche"    : "Comer menos que un pajarito"
     } ,
   
@@ -2198,6 +2226,10 @@
   
     {
       "cliche"    : "Comienza la cuenta atrás"
+    } ,
+  
+    {
+      "cliche"    : "Como a un Cristo dos pistolas"
     } ,
   
     {
@@ -2313,6 +2345,10 @@
     } ,
   
     {
+      "cliche"    : "Como un lagarto"
+    } ,
+  
+    {
       "cliche"    : "Como un libro abierto"
     } ,
   
@@ -2382,6 +2418,10 @@
   
     {
       "cliche"    : "Con el rabo entre las piernas"
+    } ,
+  
+    {
+      "cliche"    : "Con esa idea en la cabeza"
     } ,
   
     {
@@ -2589,6 +2629,14 @@
     } ,
   
     {
+      "cliche"    : "Corren malos tiempos"
+    } ,
+  
+    {
+      "cliche"    : "Corren malos tiempos para la lírica"
+    } ,
+  
+    {
       "cliche"    : "Correr como alma que lleva el diablo"
     } ,
   
@@ -2618,10 +2666,6 @@
   
     {
       "cliche"    : "Correrse la voz"
-    } ,
-  
-    {
-      "cliche"    : "Corriente y moliente"
     } ,
   
     {
@@ -2666,6 +2710,10 @@
   
     {
       "cliche"    : "Cortina de humo"
+    } ,
+  
+    {
+      "cliche"    : "Cosa de poco"
     } ,
   
     {
@@ -2718,6 +2766,10 @@
   
     {
       "cliche"    : "Craso error"
+    } ,
+  
+    {
+      "cliche"    : "Crear escuela"
     } ,
   
     {
@@ -2782,6 +2834,10 @@
   
     {
       "cliche"    : "Cualquiera lo diría"
+    } ,
+  
+    {
+      "cliche"    : "Cuando el río suena"
     } ,
   
     {
@@ -2937,7 +2993,15 @@
     } ,
   
     {
+      "cliche"    : "Dar cosa"
+    } ,
+  
+    {
       "cliche"    : "Dar cuerda"
+    } ,
+  
+    {
+      "cliche"    : "Dar el 110 por ciento"
     } ,
   
     {
@@ -3197,6 +3261,10 @@
     } ,
   
     {
+      "cliche"    : "Dar un quiebro"
+    } ,
+  
+    {
       "cliche"    : "Dar un recital de goles"
     } ,
   
@@ -3257,6 +3325,10 @@
     } ,
   
     {
+      "cliche"    : "Dardo envenenado"
+    } ,
+  
+    {
       "cliche"    : "Darlas con queso"
     } ,
   
@@ -3281,11 +3353,19 @@
     } ,
   
     {
+      "cliche"    : "Darle leña al mono que es de goma"
+    } ,
+  
+    {
       "cliche"    : "Darle para el pelo"
     } ,
   
     {
       "cliche"    : "Darle un patatús"
+    } ,
+  
+    {
+      "cliche"    : "Darle un repaso"
     } ,
   
     {
@@ -3314,6 +3394,10 @@
   
     {
       "cliche"    : "Darse de morros con"
+    } ,
+  
+    {
+      "cliche"    : "Darse el lote"
     } ,
   
     {
@@ -3366,6 +3450,14 @@
   
     {
       "cliche"    : "De buena cepa"
+    } ,
+  
+    {
+      "cliche"    : "De buena pasta"
+    } ,
+  
+    {
+      "cliche"    : "De buenas a primeras"
     } ,
   
     {
@@ -3429,6 +3521,10 @@
     } ,
   
     {
+      "cliche"    : "De hoz y coz"
+    } ,
+  
+    {
       "cliche"    : "De la Ceca a la Meca"
     } ,
   
@@ -3446,6 +3542,10 @@
   
     {
       "cliche"    : "De mal en peor"
+    } ,
+  
+    {
+      "cliche"    : "De mi cosecha"
     } ,
   
     {
@@ -3638,6 +3738,10 @@
   
     {
       "cliche"    : "Defender con uñas y dientes"
+    } ,
+  
+    {
+      "cliche"    : "Defensa numantina"
     } ,
   
     {
@@ -3897,6 +4001,10 @@
     } ,
   
     {
+      "cliche"    : "Despacharse a gusto"
+    } ,
+  
+    {
       "cliche"    : "Despacito y buena letra"
     } ,
   
@@ -4101,6 +4209,10 @@
     } ,
   
     {
+      "cliche"    : "Échale hilo a la cometa"
+    } ,
+  
+    {
       "cliche"    : "Echar a perder"
     } ,
   
@@ -4125,11 +4237,19 @@
     } ,
   
     {
+      "cliche"    : "Echar flores"
+    } ,
+  
+    {
       "cliche"    : "Echar la pota"
     } ,
   
     {
       "cliche"    : "Echar las campanas al vuelo"
+    } ,
+  
+    {
+      "cliche"    : "Echar las cuentas de la lechera"
     } ,
   
     {
@@ -4141,7 +4261,15 @@
     } ,
   
     {
+      "cliche"    : "Echar margaritas a los cerdos"
+    } ,
+  
+    {
       "cliche"    : "Echar más leña al fuego"
+    } ,
+  
+    {
+      "cliche"    : "Echar pestes"
     } ,
   
     {
@@ -4150,6 +4278,10 @@
   
     {
       "cliche"    : "Echar raíces"
+    } ,
+  
+    {
+      "cliche"    : "Echar sapos y culebras"
     } ,
   
     {
@@ -4225,6 +4357,10 @@
     } ,
   
     {
+      "cliche"    : "El año de la polca"
+    } ,
+  
+    {
       "cliche"    : "El autodenominado Estado Islámico"
     } ,
   
@@ -4234,6 +4370,10 @@
   
     {
       "cliche"    : "El canto del cisne"
+    } ,
+  
+    {
+      "cliche"    : "El capitán araña"
     } ,
   
     {
@@ -4289,6 +4429,10 @@
     } ,
   
     {
+      "cliche"    : "El espíritu navideño"
+    } ,
+  
+    {
       "cliche"    : "El estadio se vino abajo"
     } ,
   
@@ -4318,6 +4462,10 @@
   
     {
       "cliche"    : "El hecho fue perpetrado"
+    } ,
+  
+    {
+      "cliche"    : "El huevo de Colón"
     } ,
   
     {
@@ -4358,6 +4506,10 @@
   
     {
       "cliche"    : "El mismo que viste y calza"
+    } ,
+  
+    {
+      "cliche"    : "El movimiento se demuestra andando"
     } ,
   
     {
@@ -4402,6 +4554,10 @@
   
     {
       "cliche"    : "El que avisa no es traidor"
+    } ,
+  
+    {
+      "cliche"    : "El que no corre, vuela"
     } ,
   
     {
@@ -4502,10 +4658,6 @@
   
     {
       "cliche"    : "En efecto"
-    } ,
-  
-    {
-      "cliche"    : "En el ajo"
     } ,
   
     {
@@ -4701,11 +4853,19 @@
     } ,
   
     {
+      "cliche"    : "En un visto y no visto"
+    } ,
+  
+    {
       "cliche"    : "En vivo y en directo"
     } ,
   
     {
       "cliche"    : "Encaje de bolillos"
+    } ,
+  
+    {
+      "cliche"    : "Encasquetar el bulto"
     } ,
   
     {
@@ -4733,6 +4893,10 @@
     } ,
   
     {
+      "cliche"    : "Endosar el muerto"
+    } ,
+  
+    {
       "cliche"    : "Endosarle el muerto a otro"
     } ,
   
@@ -4754,6 +4918,14 @@
   
     {
       "cliche"    : "Engancharse con alguien"
+    } ,
+  
+    {
+      "cliche"    : "Engordar para morir"
+    } ,
+  
+    {
+      "cliche"    : "Enmendarle la plana"
     } ,
   
     {
@@ -4817,6 +4989,10 @@
     } ,
   
     {
+      "cliche"    : "Entrar por el ojo derecho"
+    } ,
+  
+    {
       "cliche"    : "Entrar por la puerta de atrás"
     } ,
   
@@ -4858,6 +5034,10 @@
   
     {
       "cliche"    : "Entrenamiento a puerta cerrada"
+    } ,
+  
+    {
+      "cliche"    : "Entro col y col, lechuga"
     } ,
   
     {
@@ -4937,7 +5117,19 @@
     } ,
   
     {
+      "cliche"    : "Escribir más que el Tostado"
+    } ,
+  
+    {
       "cliche"    : "Escudo humano"
+    } ,
+  
+    {
+      "cliche"    : "Escupir el dinero"
+    } ,
+  
+    {
+      "cliche"    : "Escupir por el colmillo"
     } ,
   
     {
@@ -4946,6 +5138,10 @@
   
     {
       "cliche"    : "Esfuerzo encomiable"
+    } ,
+  
+    {
+      "cliche"    : "Eso es música celestial"
     } ,
   
     {
@@ -4969,6 +5165,10 @@
     } ,
   
     {
+      "cliche"    : "Está causando sensación"
+    } ,
+  
+    {
       "cliche"    : "Está que arde"
     } ,
   
@@ -4982,6 +5182,10 @@
   
     {
       "cliche"    : "Estar a la cuarta pregunta"
+    } ,
+  
+    {
+      "cliche"    : "Estar a la defensiva"
     } ,
   
     {
@@ -5089,11 +5293,19 @@
     } ,
   
     {
+      "cliche"    : "Estar en barbecho"
+    } ,
+  
+    {
       "cliche"    : "Estar en boca de todos"
     } ,
   
     {
       "cliche"    : "Estar en el aire"
+    } ,
+  
+    {
+      "cliche"    : "Estar en el ajo"
     } ,
   
     {
@@ -5106,6 +5318,10 @@
   
     {
       "cliche"    : "Estar en el mismo barco"
+    } ,
+  
+    {
+      "cliche"    : "Estar en el séptimo cielo"
     } ,
   
     {
@@ -5134,6 +5350,14 @@
   
     {
       "cliche"    : "Estar en pañales"
+    } ,
+  
+    {
+      "cliche"    : "Estar en paños menores"
+    } ,
+  
+    {
+      "cliche"    : "Estar en pelotas"
     } ,
   
     {
@@ -5229,6 +5453,10 @@
     } ,
   
     {
+      "cliche"    : "Estar más liado que la pata de un romano"
+    } ,
+  
+    {
       "cliche"    : "Estar más p’allá que p’acá"
     } ,
   
@@ -5289,11 +5517,23 @@
     } ,
   
     {
+      "cliche"    : "Estar salido"
+    } ,
+  
+    {
+      "cliche"    : "Estar sembrado"
+    } ,
+  
+    {
       "cliche"    : "Estar sin blanca"
     } ,
   
     {
       "cliche"    : "Estar sin oficio ni beneficio"
+    } ,
+  
+    {
+      "cliche"    : "Estar sonado"
     } ,
   
     {
@@ -5333,6 +5573,10 @@
     } ,
   
     {
+      "cliche"    : "Esto es jauja"
+    } ,
+  
+    {
       "cliche"    : "Esto es tela de grande"
     } ,
   
@@ -5350,6 +5594,10 @@
   
     {
       "cliche"    : "Estrecha colaboración"
+    } ,
+  
+    {
+      "cliche"    : "Estrechar el margen"
     } ,
   
     {
@@ -5397,6 +5645,10 @@
     } ,
   
     {
+      "cliche"    : "Faltarle chispa"
+    } ,
+  
+    {
       "cliche"    : "Faltarle un hervor"
     } ,
   
@@ -5426,6 +5678,10 @@
   
     {
       "cliche"    : "Final de infarto"
+    } ,
+  
+    {
+      "cliche"    : "Finolis"
     } ,
   
     {
@@ -5466,6 +5722,10 @@
   
     {
       "cliche"    : "Fuego amigo"
+    } ,
+  
+    {
+      "cliche"    : "Fuente inagotable"
     } ,
   
     {
@@ -5570,6 +5830,10 @@
   
     {
       "cliche"    : "Ganar peso"
+    } ,
+  
+    {
+      "cliche"    : "Ganar por goleada"
     } ,
   
     {
@@ -5685,6 +5949,10 @@
     } ,
   
     {
+      "cliche"    : "Ha llovido mucho desde entonces"
+    } ,
+  
+    {
       "cliche"    : "Ha nacido una estrella"
     } ,
   
@@ -5717,6 +5985,10 @@
     } ,
   
     {
+      "cliche"    : "Hablar con segundas"
+    } ,
+  
+    {
       "cliche"    : "Hablar en chino"
     } ,
   
@@ -5730,6 +6002,10 @@
   
     {
       "cliche"    : "Hablar más que un sacamuelas"
+    } ,
+  
+    {
+      "cliche"    : "Hablar por boca de ganso"
     } ,
   
     {
@@ -5750,6 +6026,10 @@
   
     {
       "cliche"    : "Hacer algo con cabeza"
+    } ,
+  
+    {
+      "cliche"    : "Hacer algo con la gorra"
     } ,
   
     {
@@ -5801,6 +6081,10 @@
     } ,
   
     {
+      "cliche"    : "Hacer el chorra"
+    } ,
+  
+    {
       "cliche"    : "Hacer el ganso"
     } ,
   
@@ -5837,11 +6121,27 @@
     } ,
   
     {
+      "cliche"    : "Hacer la cobra"
+    } ,
+  
+    {
+      "cliche"    : "Hacer la estatua"
+    } ,
+  
+    {
       "cliche"    : "Hacer la guerra por su cuenta"
     } ,
   
     {
+      "cliche"    : "Hacer la jarrita"
+    } ,
+  
+    {
       "cliche"    : "Hacer la pascua"
+    } ,
+  
+    {
+      "cliche"    : "Hacer la peineta"
     } ,
   
     {
@@ -5869,6 +6169,10 @@
     } ,
   
     {
+      "cliche"    : "Hacer las maletas"
+    } ,
+  
+    {
       "cliche"    : "Hacer leña del árbol caído"
     } ,
   
@@ -5889,7 +6193,15 @@
     } ,
   
     {
+      "cliche"    : "Hacer morder el ajo"
+    } ,
+  
+    {
       "cliche"    : "Hacer mutis por el foro"
+    } ,
+  
+    {
+      "cliche"    : "Hacer números"
     } ,
   
     {
@@ -5910,6 +6222,10 @@
   
     {
       "cliche"    : "Hacer piña"
+    } ,
+  
+    {
+      "cliche"    : "Hacer pupa"
     } ,
   
     {
@@ -5938,6 +6254,10 @@
   
     {
       "cliche"    : "Hacer tabla rasa"
+    } ,
+  
+    {
+      "cliche"    : "Hacer tablas"
     } ,
   
     {
@@ -5973,6 +6293,10 @@
     } ,
   
     {
+      "cliche"    : "Hacer una de las suyas"
+    } ,
+  
+    {
       "cliche"    : "Hacer una faena"
     } ,
   
@@ -5982,6 +6306,10 @@
   
     {
       "cliche"    : "Hacer valer el resultado"
+    } ,
+  
+    {
+      "cliche"    : "Hacerle el caldo gordo"
     } ,
   
     {
@@ -6001,11 +6329,19 @@
     } ,
   
     {
+      "cliche"    : "Hacerle un feo"
+    } ,
+  
+    {
       "cliche"    : "Hacerle un flaco favor"
     } ,
   
     {
       "cliche"    : "Hacerlo a regañadientes"
+    } ,
+  
+    {
+      "cliche"    : "Hacerlo de extranjis"
     } ,
   
     {
@@ -6113,6 +6449,10 @@
     } ,
   
     {
+      "cliche"    : "Hasta las cachas"
+    } ,
+  
+    {
       "cliche"    : "Hasta las narices"
     } ,
   
@@ -6122,6 +6462,10 @@
   
     {
       "cliche"    : "Hasta las últimas consecuencias"
+    } ,
+  
+    {
+      "cliche"    : "Hasta los topes"
     } ,
   
     {
@@ -6149,7 +6493,7 @@
     } ,
   
     {
-      "cliche"    : "Hay gente para  todo"
+      "cliche"    : "Hay gente para todo"
     } ,
   
     {
@@ -6194,6 +6538,10 @@
   
     {
       "cliche"    : "Hecho un basilisco"
+    } ,
+  
+    {
+      "cliche"    : "Hecho un figurín"
     } ,
   
     {
@@ -6245,6 +6593,14 @@
     } ,
   
     {
+      "cliche"    : "Hinchar el perro"
+    } ,
+  
+    {
+      "cliche"    : "Hinchársele las narices"
+    } ,
+  
+    {
       "cliche"    : "Hoja de ruta"
     } ,
   
@@ -6254,6 +6610,10 @@
   
     {
       "cliche"    : "Hoy en día"
+    } ,
+  
+    {
+      "cliche"    : "Hoy por hoy"
     } ,
   
     {
@@ -6269,6 +6629,10 @@
     } ,
   
     {
+      "cliche"    : "Huir como de la peste"
+    } ,
+  
+    {
       "cliche"    : "Hundirse en el fango"
     } ,
   
@@ -6278,6 +6642,10 @@
   
     {
       "cliche"    : "Icono de algo"
+    } ,
+  
+    {
+      "cliche"    : "Ídem de lienzo"
     } ,
   
     {
@@ -6314,6 +6682,10 @@
   
     {
       "cliche"    : "Inexorable paso del tiempo"
+    } ,
+  
+    {
+      "cliche"    : "Inflar las narices"
     } ,
   
     {
@@ -6410,6 +6782,14 @@
   
     {
       "cliche"    : "Ir con el lirio en la mano"
+    } ,
+  
+    {
+      "cliche"    : "Ir con el pie cambiado"
+    } ,
+  
+    {
+      "cliche"    : "Ir con el piloto económico"
     } ,
   
     {
@@ -6522,6 +6902,10 @@
   
     {
       "cliche"    : "Irreparable pérdida"
+    } ,
+  
+    {
+      "cliche"    : "Irse a la porra"
     } ,
   
     {
@@ -6721,7 +7105,15 @@
     } ,
   
     {
+      "cliche"    : "La carabina de Ambrosio"
+    } ,
+  
+    {
       "cliche"    : "La carne de burro no es transparente"
+    } ,
+  
+    {
+      "cliche"    : "La casa de Tócame Roque"
     } ,
   
     {
@@ -6733,11 +7125,11 @@
     } ,
   
     {
-      "cliche"    : "La codiciada estatuilla"
+      "cliche"    : "La cepa del poste"
     } ,
   
     {
-      "cliche"    : "Ser la comidilla"
+      "cliche"    : "La codiciada estatuilla"
     } ,
   
     {
@@ -6778,6 +7170,14 @@
   
     {
       "cliche"    : "La excepción que confirma la regla"
+    } ,
+  
+    {
+      "cliche"    : "La experiencia es un grado"
+    } ,
+  
+    {
+      "cliche"    : "La fe del carbonero"
     } ,
   
     {
@@ -6841,6 +7241,10 @@
     } ,
   
     {
+      "cliche"    : "La mejor defensa es un buen ataque"
+    } ,
+  
+    {
       "cliche"    : "La nota discordante"
     } ,
   
@@ -6897,6 +7301,10 @@
     } ,
   
     {
+      "cliche"    : "La purga de Benito"
+    } ,
+  
+    {
       "cliche"    : "La reina del suspense"
     } ,
   
@@ -6918,6 +7326,10 @@
   
     {
       "cliche"    : "La sangre no llegó al río"
+    } ,
+  
+    {
+      "cliche"    : "La suerte está echada"
     } ,
   
     {
@@ -6954,6 +7366,10 @@
   
     {
       "cliche"    : "Labrarse un buen futuro"
+    } ,
+  
+    {
+      "cliche"    : "Lacra de la sociedad"
     } ,
   
     {
@@ -7061,6 +7477,10 @@
     } ,
   
     {
+      "cliche"    : "Las cuentas del Gran Capitán"
+    } ,
+  
+    {
       "cliche"    : "Las dos caras de la moneda"
     } ,
   
@@ -7133,6 +7553,14 @@
     } ,
   
     {
+      "cliche"    : "Le va a pillar el toro"
+    } ,
+  
+    {
+      "cliche"    : "Le vino Dios a ver"
+    } ,
+  
+    {
       "cliche"    : "Leer entre líneas"
     } ,
   
@@ -7162,6 +7590,10 @@
   
     {
       "cliche"    : "Leyenda urbana"
+    } ,
+  
+    {
+      "cliche"    : "Liar el petate"
     } ,
   
     {
@@ -7413,6 +7845,10 @@
     } ,
   
     {
+      "cliche"    : "Lo mismo da que da lo mismo"
+    } ,
+  
+    {
       "cliche"    : "Lo nunca visto"
     } ,
   
@@ -7422,6 +7858,10 @@
   
     {
       "cliche"    : "Lo prometido es deuda"
+    } ,
+  
+    {
+      "cliche"    : "Lo que es de agradecer"
     } ,
   
     {
@@ -7454,6 +7894,10 @@
   
     {
       "cliche"    : "Loco de remate"
+    } ,
+  
+    {
+      "cliche"    : "Los aledaños del estadio"
     } ,
   
     {
@@ -7498,6 +7942,10 @@
   
     {
       "cliche"    : "Los ojos como platos"
+    } ,
+  
+    {
+      "cliche"    : "Los prolegómenos del partido"
     } ,
   
     {
@@ -7701,6 +8149,10 @@
     } ,
   
     {
+      "cliche"    : "Marcar el rumbo"
+    } ,
+  
+    {
       "cliche"    : "Marcar los tiempos"
     } ,
   
@@ -7741,6 +8193,10 @@
     } ,
   
     {
+      "cliche"    : "Más alegre que unas pascuas"
+    } ,
+  
+    {
       "cliche"    : "Más bruto que un arado"
     } ,
   
@@ -7774,6 +8230,10 @@
   
     {
       "cliche"    : "Más feo que Picio"
+    } ,
+  
+    {
+      "cliche"    : "Más hambre que un maestro de escuela"
     } ,
   
     {
@@ -7849,6 +8309,10 @@
     } ,
   
     {
+      "cliche"    : "Más tirado que una colilla"
+    } ,
+  
+    {
       "cliche"    : "Más tonto que Abundio"
     } ,
   
@@ -7870,6 +8334,10 @@
   
     {
       "cliche"    : "Masiva concurrencia"
+    } ,
+  
+    {
+      "cliche"    : "Mastuerzo"
     } ,
   
     {
@@ -7941,11 +8409,23 @@
     } ,
   
     {
+      "cliche"    : "Me la refanfinfla"
+    } ,
+  
+    {
+      "cliche"    : "Me la repanfinfla"
+    } ,
+  
+    {
       "cliche"    : "Me la trae al pairo"
     } ,
   
     {
       "cliche"    : "Me lo dices o me lo cuentas"
+    } ,
+  
+    {
+      "cliche"    : "Me lo ha dicho un pajarito"
     } ,
   
     {
@@ -8069,6 +8549,10 @@
     } ,
   
     {
+      "cliche"    : "Meter en el mismo saco"
+    } ,
+  
+    {
       "cliche"    : "Meter en el talego"
     } ,
   
@@ -8118,6 +8602,10 @@
   
     {
       "cliche"    : "Meterse a farolero"
+    } ,
+  
+    {
+      "cliche"    : "Meterse a redentor"
     } ,
   
     {
@@ -8225,6 +8713,10 @@
     } ,
   
     {
+      "cliche"    : "Millonetis"
+    } ,
+  
+    {
       "cliche"    : "Minutos de terror"
     } ,
   
@@ -8314,6 +8806,10 @@
   
     {
       "cliche"    : "Mojarle la oreja"
+    } ,
+  
+    {
+      "cliche"    : "Mojarse el culo"
     } ,
   
     {
@@ -8485,6 +8981,10 @@
     } ,
   
     {
+      "cliche"    : "Mucha correa"
+    } ,
+  
+    {
       "cliche"    : "Mucho ojito"
     } ,
   
@@ -8557,7 +9057,15 @@
     } ,
   
     {
+      "cliche"    : "Nadie es profeta en su tierra"
+    } ,
+  
+    {
       "cliche"    : "Nadie le hace sombra"
+    } ,
+  
+    {
+      "cliche"    : "Nadie lo diría"
     } ,
   
     {
@@ -8869,6 +9377,10 @@
     } ,
   
     {
+      "cliche"    : "No es nada lo del ojo"
+    } ,
+  
+    {
       "cliche"    : "No es oro todo lo que reluce"
     } ,
   
@@ -8878,6 +9390,10 @@
   
     {
       "cliche"    : "No es un tema menor"
+    } ,
+  
+    {
+      "cliche"    : "No eso, lo de después"
     } ,
   
     {
@@ -8981,6 +9497,10 @@
     } ,
   
     {
+      "cliche"    : "No hay libro tan malo que no tenga algo bueno"
+    } ,
+  
+    {
       "cliche"    : "No hay más cera que la que arde"
     } ,
   
@@ -9017,7 +9537,7 @@
     } ,
   
     {
-      "cliche"    : "No hay tu tía"
+      "cliche"    : "No hay tutía"
     } ,
   
     {
@@ -9082,6 +9602,14 @@
   
     {
       "cliche"    : "No me toques los pies"
+    } ,
+  
+    {
+      "cliche"    : "No me vengas con cuentos"
+    } ,
+  
+    {
+      "cliche"    : "No me vengas con milongas"
     } ,
   
     {
@@ -9165,6 +9693,10 @@
     } ,
   
     {
+      "cliche"    : "No pudo ser"
+    } ,
+  
+    {
       "cliche"    : "No quedar más remedio"
     } ,
   
@@ -9226,6 +9758,10 @@
   
     {
       "cliche"    : "No se dignó acudir"
+    } ,
+  
+    {
+      "cliche"    : "No se hable más"
     } ,
   
     {
@@ -9441,6 +9977,10 @@
     } ,
   
     {
+      "cliche"    : "No, lo siguiente"
+    } ,
+  
+    {
       "cliche"    : "Nos dan las uvas"
     } ,
   
@@ -9449,7 +9989,19 @@
     } ,
   
     {
+      "cliche"    : "Nudo gordiano"
+    } ,
+  
+    {
+      "cliche"    : "Nuestro gozo, en un pozo"
+    } ,
+  
+    {
       "cliche"    : "Nunca digas nunca jamás"
+    } ,
+  
+    {
+      "cliche"    : "Nunca segundas partes fueron buenas"
     } ,
   
     {
@@ -9474,6 +10026,10 @@
   
     {
       "cliche"    : "Oír las dos campanas"
+    } ,
+  
+    {
+      "cliche"    : "Ojo al Cristo, que es de plata"
     } ,
   
     {
@@ -9506,6 +10062,10 @@
   
     {
       "cliche"    : "Oler a tigre"
+    } ,
+  
+    {
+      "cliche"    : "Oler el poste"
     } ,
   
     {
@@ -9558,6 +10118,10 @@
   
     {
       "cliche"    : "Ovación cerrada"
+    } ,
+  
+    {
+      "cliche"    : "Paciencia y barajar"
     } ,
   
     {
@@ -9681,6 +10245,14 @@
     } ,
   
     {
+      "cliche"    : "Parece el corral de la Pacheca"
+    } ,
+  
+    {
+      "cliche"    : "Parece que fue ayer"
+    } ,
+  
+    {
       "cliche"    : "Parecer un disco rayado"
     } ,
   
@@ -9749,6 +10321,10 @@
     } ,
   
     {
+      "cliche"    : "Partir peras"
+    } ,
+  
+    {
       "cliche"    : "Partirle la cara"
     } ,
   
@@ -9782,6 +10358,10 @@
   
     {
       "cliche"    : "Pasar de todo"
+    } ,
+  
+    {
+      "cliche"    : "Pasar el Rubicón"
     } ,
   
     {
@@ -9953,6 +10533,10 @@
     } ,
   
     {
+      "cliche"    : "Pedir la mano"
+    } ,
+  
+    {
       "cliche"    : "Pedir peras al olmo"
     } ,
   
@@ -9994,6 +10578,10 @@
   
     {
       "cliche"    : "Peinar la zona en busca de algo"
+    } ,
+  
+    {
+      "cliche"    : "Pelar la pava"
     } ,
   
     {
@@ -10209,7 +10797,19 @@
     } ,
   
     {
+      "cliche"    : "Pinchar el globo"
+    } ,
+  
+    {
       "cliche"    : "Pinchar en hueso"
+    } ,
+  
+    {
+      "cliche"    : "Pinchar la burbuja"
+    } ,
+  
+    {
+      "cliche"    : "Pintan bastos"
     } ,
   
     {
@@ -10265,6 +10865,10 @@
     } ,
   
     {
+      "cliche"    : "Plantar un pino"
+    } ,
+  
+    {
       "cliche"    : "Plantear un pulso"
     } ,
   
@@ -10314,6 +10918,10 @@
   
     {
       "cliche"    : "Poner cara de póquer"
+    } ,
+  
+    {
+      "cliche"    : "Poner como un trapo"
     } ,
   
     {
@@ -10393,6 +11001,10 @@
     } ,
   
     {
+      "cliche"    : "Poner en un brete"
+    } ,
+  
+    {
       "cliche"    : "Poner en valor"
     } ,
   
@@ -10454,6 +11066,14 @@
   
     {
       "cliche"    : "Poner las peras al cuarto"
+    } ,
+  
+    {
+      "cliche"    : "Poner los cinco sentidos"
+    } ,
+  
+    {
+      "cliche"    : "Poner los cuernos"
     } ,
   
     {
@@ -10745,6 +11365,10 @@
     } ,
   
     {
+      "cliche"    : "Porque sí"
+    } ,
+  
+    {
       "cliche"    : "Postureo"
     } ,
   
@@ -10845,6 +11469,10 @@
     } ,
   
     {
+      "cliche"    : "Pulsar la opinión"
+    } ,
+  
+    {
       "cliche"    : "Punto de inflexión"
     } ,
   
@@ -10921,11 +11549,11 @@
     } ,
   
     {
-      "cliche"    : "Que te parta un rayo"
+      "cliche"    : "Qué le vamos a hacer"
     } ,
   
     {
-      "cliche"    : "Qué le vamos a hacer"
+      "cliche"    : "Que le zurzan"
     } ,
   
     {
@@ -10945,11 +11573,23 @@
     } ,
   
     {
+      "cliche"    : "Qué quieres que te diga"
+    } ,
+  
+    {
       "cliche"    : "Que quita el hipo"
     } ,
   
     {
       "cliche"    : "Que risa, tía Felisa"
+    } ,
+  
+    {
+      "cliche"    : "Que se me lengua la traba"
+    } ,
+  
+    {
+      "cliche"    : "Qué sé yo"
     } ,
   
     {
@@ -10961,11 +11601,19 @@
     } ,
   
     {
+      "cliche"    : "Que si quieres arroz, Catalina"
+    } ,
+  
+    {
       "cliche"    : "Que te den dos duros"
     } ,
   
     {
       "cliche"    : "Que te den morcilla"
+    } ,
+  
+    {
+      "cliche"    : "Qué te dije yo"
     } ,
   
     {
@@ -11014,6 +11662,10 @@
   
     {
       "cliche"    : "Quedarse con el culo al aire"
+    } ,
+  
+    {
+      "cliche"    : "Quedarse con el molde"
     } ,
   
     {
@@ -11097,6 +11749,10 @@
     } ,
   
     {
+      "cliche"    : "Quedarse tan pancho"
+    } ,
+  
+    {
       "cliche"    : "Quemar el último cartucho"
     } ,
   
@@ -11109,11 +11765,19 @@
     } ,
   
     {
+      "cliche"    : "Querer es poder"
+    } ,
+  
+    {
       "cliche"    : "Querer y no poder"
     } ,
   
     {
       "cliche"    : "Quien avisa no es traidor"
+    } ,
+  
+    {
+      "cliche"    : "Quién lo iba a decir"
     } ,
   
     {
@@ -11193,6 +11857,10 @@
     } ,
   
     {
+      "cliche"    : "Rajarse"
+    } ,
+  
+    {
       "cliche"    : "Rápido desenlace"
     } ,
   
@@ -11253,6 +11921,10 @@
     } ,
   
     {
+      "cliche"    : "Recoger los bártulos"
+    } ,
+  
+    {
       "cliche"    : "Recta final"
     } ,
   
@@ -11282,6 +11954,10 @@
   
     {
       "cliche"    : "Reina el caos generalizado"
+    } ,
+  
+    {
+      "cliche"    : "Reinventar la rueda"
     } ,
   
     {
@@ -11394,6 +12070,10 @@
   
     {
       "cliche"    : "Retirada gradual de estímulos"
+    } ,
+  
+    {
+      "cliche"    : "Reventar como el lagarto de Jaén"
     } ,
   
     {
@@ -11557,6 +12237,10 @@
     } ,
   
     {
+      "cliche"    : "Saber más que Lepe"
+    } ,
+  
+    {
       "cliche"    : "Saber más que los ratones colorados"
     } ,
   
@@ -11605,7 +12289,15 @@
     } ,
   
     {
+      "cliche"    : "Sacar con sacacorchos"
+    } ,
+  
+    {
       "cliche"    : "Sacar de debajo de las piedras"
+    } ,
+  
+    {
+      "cliche"    : "Sacar de madre"
     } ,
   
     {
@@ -11641,6 +12333,10 @@
     } ,
   
     {
+      "cliche"    : "Sacar partido"
+    } ,
+  
+    {
       "cliche"    : "Sacar pecho"
     } ,
   
@@ -11665,6 +12361,10 @@
     } ,
   
     {
+      "cliche"    : "Sacarse de la manga"
+    } ,
+  
+    {
       "cliche"    : "Sacarse un as de la manga"
     } ,
   
@@ -11678,6 +12378,10 @@
   
     {
       "cliche"    : "Saldar una deuda pendiente"
+    } ,
+  
+    {
+      "cliche"    : "Salga el sol por Antequera"
     } ,
   
     {
@@ -11713,6 +12417,10 @@
     } ,
   
     {
+      "cliche"    : "Salir de pobre"
+    } ,
+  
+    {
       "cliche"    : "Salir del armario"
     } ,
   
@@ -11730,6 +12438,10 @@
   
     {
       "cliche"    : "Salir del paso"
+    } ,
+  
+    {
+      "cliche"    : "Salir más caro que un hijo tonto"
     } ,
   
     {
@@ -11758,6 +12470,10 @@
   
     {
       "cliche"    : "Salirle el tiro por la culata"
+    } ,
+  
+    {
+      "cliche"    : "Salirse con la suya"
     } ,
   
     {
@@ -11861,6 +12577,10 @@
     } ,
   
     {
+      "cliche"    : "Se dice pronto"
+    } ,
+  
+    {
       "cliche"    : "Se dio a la fuga"
     } ,
   
@@ -11870,6 +12590,10 @@
   
     {
       "cliche"    : "Se fundieron en un abrazo"
+    } ,
+  
+    {
+      "cliche"    : "Se hace camino al andar"
     } ,
   
     {
@@ -11894,6 +12618,10 @@
   
     {
       "cliche"    : "Se respira un gran ambiente"
+    } ,
+  
+    {
+      "cliche"    : "Se te ve el plumero"
     } ,
   
     {
@@ -11938,6 +12666,10 @@
   
     {
       "cliche"    : "Sellar sus labios"
+    } ,
+  
+    {
+      "cliche"    : "Sembrar cizaña"
     } ,
   
     {
@@ -12033,6 +12765,14 @@
     } ,
   
     {
+      "cliche"    : "Ser como el perro del hortelano"
+    } ,
+  
+    {
+      "cliche"    : "Ser correa de transmisión"
+    } ,
+  
+    {
       "cliche"    : "Ser de armas tomar"
     } ,
   
@@ -12098,6 +12838,10 @@
   
     {
       "cliche"    : "Ser la alegría de la huerta"
+    } ,
+  
+    {
+      "cliche"    : "Ser la comidilla"
     } ,
   
     {
@@ -12177,6 +12921,10 @@
     } ,
   
     {
+      "cliche"    : "Ser un as"
+    } ,
+  
+    {
       "cliche"    : "Ser un buen partido"
     } ,
   
@@ -12185,7 +12933,19 @@
     } ,
   
     {
+      "cliche"    : "Ser un cabezón"
+    } ,
+  
+    {
       "cliche"    : "Ser un cacho de pan"
+    } ,
+  
+    {
+      "cliche"    : "Ser un cáncer para"
+    } ,
+  
+    {
+      "cliche"    : "Ser un cuco"
     } ,
   
     {
@@ -12221,7 +12981,15 @@
     } ,
   
     {
+      "cliche"    : "Ser una arpía"
+    } ,
+  
+    {
       "cliche"    : "Ser una enciclopedia"
+    } ,
+  
+    {
+      "cliche"    : "Ser una máquina"
     } ,
   
     {
@@ -12233,11 +13001,19 @@
     } ,
   
     {
+      "cliche"    : "Ser una rémora"
+    } ,
+  
+    {
       "cliche"    : "Ser una tumba"
     } ,
   
     {
       "cliche"    : "Ser uña y carne"
+    } ,
+  
+    {
+      "cliche"    : "Serio candidato"
     } ,
   
     {
@@ -12250,6 +13026,10 @@
   
     {
       "cliche"    : "Servir en bandeja de plata"
+    } ,
+  
+    {
+      "cliche"    : "Severo correctivo"
     } ,
   
     {
@@ -12409,6 +13189,10 @@
     } ,
   
     {
+      "cliche"    : "Son habas contadas"
+    } ,
+  
+    {
       "cliche"    : "Son palabras mayores"
     } ,
   
@@ -12469,11 +13253,19 @@
     } ,
   
     {
+      "cliche"    : "Subidón"
+    } ,
+  
+    {
       "cliche"    : "Subir al marcador"
     } ,
   
     {
       "cliche"    : "Subir como la espuma"
+    } ,
+  
+    {
+      "cliche"    : "Subir de tono"
     } ,
   
     {
@@ -12485,11 +13277,19 @@
     } ,
   
     {
+      "cliche"    : "Subirse a la cabeza"
+    } ,
+  
+    {
       "cliche"    : "Subirse a la chepa"
     } ,
   
     {
       "cliche"    : "Subirse a la parra"
+    } ,
+  
+    {
+      "cliche"    : "Subirse a las barbas"
     } ,
   
     {
@@ -12617,6 +13417,10 @@
     } ,
   
     {
+      "cliche"    : "Te quiero como la trucha al trucho"
+    } ,
+  
+    {
       "cliche"    : "Teatro de operaciones"
     } ,
   
@@ -12673,6 +13477,10 @@
     } ,
   
     {
+      "cliche"    : "Tener agallas"
+    } ,
+  
+    {
       "cliche"    : "Tener altura de miras"
     } ,
   
@@ -12682,6 +13490,10 @@
   
     {
       "cliche"    : "Tener atravesado a alguien"
+    } ,
+  
+    {
+      "cliche"    : "Tener bemoles"
     } ,
   
     {
@@ -12726,6 +13538,10 @@
   
     {
       "cliche"    : "Tener buena pinta"
+    } ,
+  
+    {
+      "cliche"    : "Tener buenas vibraciones"
     } ,
   
     {
@@ -12881,6 +13697,10 @@
     } ,
   
     {
+      "cliche"    : "Tener la mano muy larga"
+    } ,
+  
+    {
       "cliche"    : "Tener la piel muy fina"
     } ,
   
@@ -12934,6 +13754,14 @@
   
     {
       "cliche"    : "Tener los pies de barro"
+    } ,
+  
+    {
+      "cliche"    : "Tener los pies en el suelo"
+    } ,
+  
+    {
+      "cliche"    : "Tener los pies en la tierra"
     } ,
   
     {
@@ -13113,6 +13941,10 @@
     } ,
   
     {
+      "cliche"    : "Tener tablas"
+    } ,
+  
+    {
       "cliche"    : "Tener tirria"
     } ,
   
@@ -13122,6 +13954,10 @@
   
     {
       "cliche"    : "Tener todo el tiempo del mundo"
+    } ,
+  
+    {
+      "cliche"    : "Tener un as bajo la manga"
     } ,
   
     {
@@ -13169,6 +14005,10 @@
     } ,
   
     {
+      "cliche"    : "Tener un oído enfrente del otro"
+    } ,
+  
+    {
       "cliche"    : "Tener un ojo a la virulé"
     } ,
   
@@ -13190,6 +14030,10 @@
   
     {
       "cliche"    : "Tener un pie en el hoyo"
+    } ,
+  
+    {
+      "cliche"    : "Tener un pie en la final"
     } ,
   
     {
@@ -13301,6 +14145,10 @@
     } ,
   
     {
+      "cliche"    : "Tira y afloja"
+    } ,
+  
+    {
       "cliche"    : "Tirar a matar"
     } ,
   
@@ -13373,6 +14221,10 @@
     } ,
   
     {
+      "cliche"    : "Tirarse en plancha"
+    } ,
+  
+    {
       "cliche"    : "Tirarse los trastos a la cabeza"
     } ,
   
@@ -13398,6 +14250,10 @@
   
     {
       "cliche"    : "Tocar fondo"
+    } ,
+  
+    {
+      "cliche"    : "Tocar la china"
     } ,
   
     {
@@ -13445,7 +14301,19 @@
     } ,
   
     {
+      "cliche"    : "Todo es según el color del cristal con que se mira"
+    } ,
+  
+    {
       "cliche"    : "Todo lo que es"
+    } ,
+  
+    {
+      "cliche"    : "Todo pasa por algo"
+    } ,
+  
+    {
+      "cliche"    : "Todo se andará"
     } ,
   
     {
@@ -13470,6 +14338,10 @@
   
     {
       "cliche"    : "Todos los tontos tienen suerte"
+    } ,
+  
+    {
+      "cliche"    : "Tolerancia cero"
     } ,
   
     {
@@ -13633,6 +14505,10 @@
     } ,
   
     {
+      "cliche"    : "Traer por los pelos"
+    } ,
+  
+    {
       "cliche"    : "Traer sin cuidado"
     } ,
   
@@ -13642,6 +14518,10 @@
   
     {
       "cliche"    : "Tragar carros y carretas"
+    } ,
+  
+    {
+      "cliche"    : "Tragar con algo"
     } ,
   
     {
@@ -13674,6 +14554,10 @@
   
     {
       "cliche"    : "Trasladar una decisión"
+    } ,
+  
+    {
+      "cliche"    : "Tremendo zambombazo"
     } ,
   
     {
@@ -13765,6 +14649,10 @@
     } ,
   
     {
+      "cliche"    : "Un calzonazos"
+    } ,
+  
+    {
       "cliche"    : "Un cantamañanas"
     } ,
   
@@ -13774,6 +14662,10 @@
   
     {
       "cliche"    : "Un caso perdido"
+    } ,
+  
+    {
+      "cliche"    : "Un cenizo"
     } ,
   
     {
@@ -13846,6 +14738,14 @@
   
     {
       "cliche"    : "Un día negro"
+    } ,
+  
+    {
+      "cliche"    : "Un día señalado"
+    } ,
+  
+    {
+      "cliche"    : "Un día sí y otro también"
     } ,
   
     {
@@ -14161,6 +15061,10 @@
     } ,
   
     {
+      "cliche"    : "Un ramalazo de dolor"
+    } ,
+  
+    {
       "cliche"    : "Un rata"
     } ,
   
@@ -14186,6 +15090,10 @@
   
     {
       "cliche"    : "Un sacamuelas"
+    } ,
+  
+    {
+      "cliche"    : "Un saludo cordial"
     } ,
   
     {
@@ -14445,6 +15353,10 @@
     } ,
   
     {
+      "cliche"    : "Una nube de fotógrafos"
+    } ,
+  
+    {
       "cliche"    : "Una ocasión de oro"
     } ,
   
@@ -14593,6 +15505,14 @@
     } ,
   
     {
+      "cliche"    : "Vaya usted con Dios"
+    } ,
+  
+    {
+      "cliche"    : "Váyase al carajo"
+    } ,
+  
+    {
       "cliche"    : "Velocidad de crucero"
     } ,
   
@@ -14689,6 +15609,10 @@
     } ,
   
     {
+      "cliche"    : "Ventura te dé Dios"
+    } ,
+  
+    {
       "cliche"    : "Ver con buenos ojos"
     } ,
   
@@ -14769,6 +15693,10 @@
     } ,
   
     {
+      "cliche"    : "Verse y desearse"
+    } ,
+  
+    {
       "cliche"    : "Vérselas y deseárselas"
     } ,
   
@@ -14841,7 +15769,7 @@
     } ,
   
     {
-      "cliche"    : "En un visto y no visto"
+      "cliche"    : "Visto lo visto"
     } ,
   
     {
@@ -15017,6 +15945,10 @@
     } ,
   
     {
+      "cliche"    : "Y la cacha de la espada"
+    } ,
+  
+    {
       "cliche"    : "Y lo que te rondaré morena"
     } ,
   
@@ -15041,7 +15973,23 @@
     } ,
   
     {
+      "cliche"    : "Y tal y cual"
+    } ,
+  
+    {
+      "cliche"    : "Y un jamón con chorreras"
+    } ,
+  
+    {
+      "cliche"    : "Y vuelta y dale"
+    } ,
+  
+    {
       "cliche"    : "Y yo con estos pelos"
+    } ,
+  
+    {
+      "cliche"    : "Ya no está entre nosotros"
     } ,
   
     {
@@ -15057,11 +16005,19 @@
     } ,
   
     {
+      "cliche"    : "Ya te lo dije"
+    } ,
+  
+    {
       "cliche"    : "Ya te vale"
     } ,
   
     {
       "cliche"    : "Ya vendrán tiempos mejores"
+    } ,
+  
+    {
+      "cliche"    : "Yo qué sé"
     } ,
   
     {
